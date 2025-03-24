@@ -1,0 +1,20 @@
+{
+  "name": "slow-server-example",
+  "version": "1.0.0",
+  "description": "A demonstration of how fetch works.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qister/slow-server-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qister/slow-server-example/issues"
+  },
+  "homepage": "https://github.com/qister/slow-server-example#readme"
+}
