@@ -1,5 +1,5 @@
 {
-  "name": "slow-server-example",
+  "name": "two-awaits-example",
   "version": "1.0.0",
   "description": "A demonstration of how fetch works.",
   "main": "server.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qister/slow-server-example.git"
+    "url": "git+https://github.com/qister/two-awaits-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qister/slow-server-example/issues"
+    "url": "https://github.com/qister/two-awaits-example/issues"
   },
-  "homepage": "https://github.com/qister/slow-server-example#readme"
+  "homepage": "https://github.com/qister/two-awaits-example#readme"
 }
